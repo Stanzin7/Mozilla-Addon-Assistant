@@ -12,7 +12,7 @@ body {
 .browser-name {
   display: flex;
   color: #fff;
-  font-size: 50px;
+  font-size: 42px;
   font-weight: 600;
   margin-bottom: 50px;
 }
@@ -23,7 +23,7 @@ body {
   margin-bottom: 62px;
 }
 .set-ms-3 {
-  margin-left: 18px;
+  margin-left: 5px;
 }
 .set-relative {
   position: relative;
