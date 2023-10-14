@@ -8,7 +8,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import os
 import sys
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'ENTER API KEY HERE'
 
 embedding = OpenAIEmbeddings()
 
