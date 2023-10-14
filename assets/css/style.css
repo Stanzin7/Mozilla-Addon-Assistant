@@ -1,32 +1,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
 body {
-  background-color: rgb(209, 230, 218);
+  background-color: #2b2a33;
   font-family: "Montserrat", sans-serif;
 }
-
-.site-header {
-  display: flex; /* This will turn the header into a flex container. */
-  justify-content: space-between; /* This will put some space between header-left and header-right */
-  align-items: center; /* This will vertically center the contents */
-  padding: 10px; /* Optional padding for some space */
-}
-
-.header-left,
-.header-right {
-  display: flex; /* Makes them flex containers too */
-  align-items: center; /* Vertically centers their children */
-  gap: 10px; /* Space between their children elements */
-}
-
-.url-input {
-  margin-left: 10px; /* Optional spacing between the buttons and the input */
-}
-
 .set-main-container {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.browser-name {
+  display: flex;
+  color: #fff;
+  font-size: 50px;
+  font-weight: 600;
+  margin-bottom: 50px;
 }
 .d-flex {
   display: flex;
@@ -96,7 +84,7 @@ body {
 .set-text-codepen {
   font-size: 14px;
   text-decoration: none;
-  color: #000;
+  color: #fff;
   display: inline-block;
   margin-top: 8px;
 }
