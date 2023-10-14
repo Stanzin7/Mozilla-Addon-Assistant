@@ -1,98 +1,117 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
 body {
-	background-color: rgb(209, 230, 218);
-	font-family: 'Montserrat', sans-serif;
+  background-color: rgb(209, 230, 218);
+  font-family: "Montserrat", sans-serif;
 }
+
+.site-header {
+  display: flex; /* This will turn the header into a flex container. */
+  justify-content: space-between; /* This will put some space between header-left and header-right */
+  align-items: center; /* This will vertically center the contents */
+  padding: 10px; /* Optional padding for some space */
+}
+
+.header-left,
+.header-right {
+  display: flex; /* Makes them flex containers too */
+  align-items: center; /* Vertically centers their children */
+  gap: 10px; /* Space between their children elements */
+}
+
+.url-input {
+  margin-left: 10px; /* Optional spacing between the buttons and the input */
+}
+
 .set-main-container {
-	height: 100vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .d-flex {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	margin-bottom: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 62px;
 }
 .set-ms-3 {
-	margin-left: 18px;
+  margin-left: 18px;
 }
 .set-relative {
-	position: relative;
+  position: relative;
 }
 .set-relative.set-input-width {
-	width: 720px;
+  width: 720px;
 }
 .set-relative.set-input-width input {
-	width: 92%;
-	display: block;
-	flex-shrink: 0;
-	background-color: #fff;
-	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  width: 92%;
+  display: block;
+  flex-shrink: 0;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
   border: 1px solid transparent;
   border-radius: 8px;
   height: 52px;
-      padding-left: 58px;
-    font-size: 15px;
-    outline: none;
+  padding-left: 58px;
+  font-size: 15px;
+  outline: none;
 }
 .set-input-width label {
-	position: absolute;
-	top: 12px;
-    left: 12px;
+  position: absolute;
+  top: 12px;
+  left: 12px;
 }
 .text-center {
-	text-align: center;
+  text-align: center;
 }
 .set-cards-sm {
-	margin-top: 42px;
-	display: flex;
-	flex-wrap: wrap;
-	width: 720px;
-	justify-content: center;
+  margin-top: 42px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 720px;
+  justify-content: center;
 }
 .set-inner-card {
-	margin: 18px;
-	text-align: center;
-	width: 80px;
+  margin: 18px;
+  text-align: center;
+  width: 80px;
 }
 .set-inner-card a {
-	text-decoration: none;
+  text-decoration: none;
 }
 .set-card-org {
-	height: 80px;
-	width: 80px;
-	background-color: #fff;
-	border-radius: 8px;
-  	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
-  	display: flex;
-  	justify-content: center;
-  	align-items: center;
+  height: 80px;
+  width: 80px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .set-card-org img {
-	border-radius: 5px;
-	max-height: 48px;
+  border-radius: 5px;
+  max-height: 48px;
 }
 .set-text-codepen {
-	font-size: 14px;
-	text-decoration: none;
-	color: #000;
-	display: inline-block;
-	margin-top: 8px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #000;
+  display: inline-block;
+  margin-top: 8px;
 }
 
 @media (max-width: 767px) {
-	.set-relative.set-input-width {
-		width: 248px;
-	}
-	.set-cards-sm {
-		width: 248px;
-	}
-	.set-main-container {
-		height: auto;
-	}
-	.set-relative.set-input-width input {
-		font-size: 12px;
-	}
+  .set-relative.set-input-width {
+    width: 248px;
+  }
+  .set-cards-sm {
+    width: 248px;
+  }
+  .set-main-container {
+    height: auto;
+  }
+  .set-relative.set-input-width input {
+    font-size: 12px;
+  }
 }
