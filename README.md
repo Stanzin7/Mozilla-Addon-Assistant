@@ -1,10 +1,10 @@
 # FireFox-Addon-Assistant
 
-![Mozilla Logo](https://rb.gy/ucuix)
+<img src="https://rb.gy/ucuix" width="100" height="100">
 
-A chatbot designed to assist Firefox users in discovering the perfect browser extension based on their specific needs.
+<h2> A chatbot designed to assist Firefox users in discovering the perfect browser extension based on their specific needs. </h2>
 
-![FireFox-Addon-Assistant Screenshot](link_to_screenshot_image_here)
+<img width="1435" alt="Screenshot 2023-10-15 at 3 20 10 PM" src="https://github.com/Stanzin7/Mozilla-Addon-Assistant/assets/109467334/bece7511-54c7-421e-97e1-551a5378c36a">
 
 ## Table of Contents
 
