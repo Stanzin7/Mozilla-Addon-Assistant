@@ -1,5 +1,52 @@
-/* When the user clicks on the button,
-      toggle between hiding and showing the dropdown content */
+jQuery(document).ready(function () {
+  // Toggle the chatbot display
+  $(".chatbot-toggler").on("click", function (e) {
+    if ($("body").hasClass("show-chatbot")) {
+      $("body").removeClass("show-chatbot");
+    } else {
+      $("body").addClass("show-chatbot");
+    }
+  });
+
+  // Close the chatbot
+  $(".close-btn").on("click", function (e) {
+    $("body").removeClass("show-chatbot");
+  });
+
+  // Handle send button click
+  $("#send-btn").on("click", function (e) {
+    sendMessage();
+  });
+});
+
+function sendMessage() {
+  let userInput = document.getElementById("user_input").value; // Adjusted this line to match the new textarea id
+
+  fetch("/ask", {
+    method: "POST",
+    body: new URLSearchParams({ user_message: userInput }),
+    headers: {
+      "Content-Type": "application/x-www-form-urlencoded",
+    },
+  })
+    .then((response) => response.json())
+    .then((data) => {
+      let chatBox = document.querySelector(".chatbox");
+      chatBox.innerHTML +=
+        "<li class='chat outgoing'><p>User: " + userInput + "</p></li>";
+      chatBox.innerHTML +=
+        "<li class='chat incoming'><span class='material-symbols-outlined'>smart_toy</span><p>Bot: " +
+        data.message +
+        "</p></li>";
+
+      // Clear the input
+      document.getElementById("user_input").value = "";
+
+      // Scroll to the bottom of the chatbox
+      $(".chatbox").animate({ scrollTop: $(".chatbox")[0].scrollHeight }, 0);
+    });
+}
+
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
@@ -17,13 +64,3 @@ window.onclick = function (event) {
     }
   }
 };
-
-document.addEventListener("DOMContentLoaded", function () {
-  var script = document.createElement("script");
-  script.src = "https://fiverr.vortext.ca/vtbot.js?p=6620";
-  script.setAttribute("default-bot", "norzang");
-  script.setAttribute("id", "vtscriptalias");
-  script.setAttribute("data-name", "fiverr");
-  script.setAttribute("async", true);
-  document.body.appendChild(script);
-});
