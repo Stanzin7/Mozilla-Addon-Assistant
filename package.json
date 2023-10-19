@@ -1,0 +1,26 @@
+{
+  "name": "fireextend",
+  "version": "1.0.0",
+  "description": "FireExtend: A smart chatbot tailored for Firefox users, seamlessly guiding them to the ideal browser extensions based on their unique needs and enhancing their overall browsing experience",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanzin7/Mozilla-Addon-Assistant.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "stanzin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stanzin7/Mozilla-Addon-Assistant/issues"
+  },
+  "homepage": "https://github.com/Stanzin7/Mozilla-Addon-Assistant#readme",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
