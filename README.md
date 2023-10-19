@@ -6,7 +6,7 @@
 
 <img width="1435" alt="firefox-chatbot" src="assets/images/Firefox.png">
 
-<img width="1435" alt="firefox-chatbot" src="assets/images/Firefox2.png">
+<img width="1435" alt="firefox-chatbot" src="assets/images/firefox2.png">
 
 ## Table of Contents
 
