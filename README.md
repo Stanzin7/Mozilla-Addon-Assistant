@@ -67,7 +67,7 @@ This project, as provided in this repository, serves as a prototype showcasing t
 
 While you can view and interact with the design elements by running the project locally, please note that the full chatbot functionalities are not provided here.
 
-To experience the full capabilities of the FireExtend chatbot, please refer to the hosted version or contact the repository owner for more details.
+To experience the full capabilities of the FireExtend chatbot, please contact me!
 
 
 ## Contribution
