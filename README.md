@@ -1,8 +1,12 @@
 # FireFox-Addon-Assistant
 
-<img src="https://rb.gy/ucuix" width="100" height="100">
+<img src="https://rb.gy/ucuix" width="100" height="100"> 
 
-<h2> A chatbot designed to assist Firefox users in discovering the perfect browser extension based on their specific needs. </h2>
+<p> FireFox-Addon-Assistant is a unique tool aimed at improving the browsing experience of Firefox users by recommending extensions tailored to their needs. With a user-friendly interface, it simplifies the process of finding and installing the right add-ons for individual users.
+
+Note: The core chatbot code powering the recommendations is hosted in a separate private repository. The website is deployed from this private repository on railway.app. However, the front-end code in this repository is open source, and you are free to clone and use it as you see fit. </p>
+<br>
+[Link to Website](https://fireextend-mozilla-chatbot.up.railway.app/)
 
 <img width="1435" alt="firefox-chatbot" src="assets/images/Firefox.png">
 
@@ -36,14 +40,35 @@ Refer to the `HLD.md` file in the project directory for a comprehensive high-lev
 
 Details on how to set up and run the project will go here. For example:
 
-1. Clone the repository.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Stanzin7/Mozilla-Addon-Assistant.git
+   
 2. Navigate to the project directory.
+   ```sh
+   cd Mozilla-Addon-Assistant
+   
 3. Install required dependencies.
-4. Run the application.
+   ```sh
+   npm install
+
+4. Addressing vulnerabilities (if any arise):
+   ```sh
+   npm audit fix
+   npm start
+
+5. Run the application.
+
+   This will start the server, and you should be able to access it at http://127.0.0.1:8080. If port 8080 is occupied, the application might start on a different port.
 
 ## Usage
 
-Instructions on how to use the chatbot once it's up and running.
+This project, as provided in this repository, serves as a prototype showcasing the front-end design and the overall concept of the FireExtend chatbot. The functional chatbot code that powers the recommendations is hosted on railway.app and originates from a separate private repository.
+
+While you can view and interact with the design elements by running the project locally, please note that the full chatbot functionalities are not provided here.
+
+To experience the full capabilities of the FireExtend chatbot, please refer to the hosted version or contact the repository owner for more details.
+
 
 ## Contribution
 
