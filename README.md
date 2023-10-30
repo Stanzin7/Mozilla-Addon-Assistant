@@ -8,9 +8,10 @@ Note: The core chatbot code powering the recommendations is hosted in a separate
 <br>
 [Link to Website](https://fireextend-mozilla-chatbot.up.railway.app/)
 
-<img width="1435" alt="firefox-chatbot" src="assets/images/Firefox.png">
+<img width="1435" alt="mozilla-addons" src="https://github.com/Stanzin7/Mozilla-Addon-Assistant/assets/109467334/8dcd75e3-ae27-46bf-8ff5-1449698f1584">
 
-<img width="1435" alt="firefox-chatbot" src="assets/images/firefox2.png">
+<img width="1435" alt="mozilla-addons" src="https://github.com/Stanzin7/Mozilla-Addon-Assistant/assets/109467334/d5119124-b0ac-4d38-a425-015b08f30278">
+
 
 ## Table of Contents
 
