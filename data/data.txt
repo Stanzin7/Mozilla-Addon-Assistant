@@ -1,0 +1,590 @@
+﻿Skip to content
+Deploy your app quickly and scale as you grow with our Hobby Tier
+Dismiss banner
+Kinsta®
+
+Applications
+Features
+Deploy apps in minutes
+Pricing
+Transparent, usage-based pricing
+Docs
+Quick starts and feature guides
+
+Databases
+Features
+Set up in minutes
+Pricing
+Transparent, usage-based pricing
+Docs
+Get started and feature guides
+Static sites
+
+WordPress
+Features
+Better, faster Managed WordPress Hosting
+Pricing
+Backed by a 30-day money-back guarantee
+Docs
+Get started, migrations, and feature guides
+Solutions
+Enterprise
+Agency
+WooCommerce
+Small Businesses
+Non-Profit
+Single Sites
+Benefits
+Free Migration
+Cloudflare Integration
+Add-Ons
+DevKinsta
+
+Watch why MyKinsta takes your WordPress Site further
+Play video
+Docs
+Pricing
+
+Contact
+Talk to sales
+Call +1 (888) 610-2915 to find the best hosting for you.
+Request a live demo
+Get a personalized demo of our powerful dashboard and hosting features.
+Ask questions
+Tell us about your website or project. We'll get back to you in one business day.
+Get help from our support team
+Talk with our experts by launching a chat in the MyKinsta dashboard.
+Search
+Submit search
+Login
+Sign Up
+HOME
+RESOURCE CENTER
+BLOG
+FIREFOX
+12 BEST FIREFOX EXTENSIONS AND ADD-ONS
+12 Best Firefox Extensions and Add-Ons
+Salman Ravoof, September 28, 2023
+A fox standing on extensions for Firefox
+
+Close
+Are you looking for Firefox extensions to help you take your browser experience to the next level? Look no further.
+
+Extensions and add-ons can improve your browsing experience and help you do everything from managing your passwords to recording your screen.
+
+If there’s any functionality you’re missing in Firefox, the chances are that you can add what you need through an extension.
+
+This article will break down how to install and manage extensions. It will also showcase the best extensions and add-ons available for Firefox in various categories.
+
+Read on to learn how to make the most of your Firefox browsing experience.
+
+Table of Contents
+What Are Firefox Extensions (Also Called Firefox Add-Ons)?
+Are Firefox Extensions Safe?
+How to Install and Remove Firefox Extensions
+12 Best Firefox Extensions by Category
+What Are Firefox Extensions (Also Called Firefox Add-Ons)?
+Firefox extensions, previously known as Firefox Add-ons, are tiny programs that function within the web browser to extend its functionality.
+
+For example, Privacy Badger is an extension you can install onto Firefox to stop invisible tracking scripts from tracking your every move online.
+
+Firefox extension Privacy Badger
+Privacy Badger extension.
+By installing and adding it to Firefox, you add that extra functionality and change your browsing experience.
+
+All kinds of extensions are available that can add different features to your Firefox browser.
+
+For example, you can use them to take screen captures, rearrange your Firefox tabs, check your grammar, set up dark mode on every website, and more.
+
+If you want a little extra something out of Firefox, and you’re thinking about changing browsers, a Firefox extension might do the job instead.
+
+These extensions and add-ons are available in the public Firefox extension library and other locations online.
+
+You can easily download and install them from within Firefox with a few clicks — more on this later.
+
+Are you looking for Firefox extensions to help you take your browser experience to the next level? 👀 Look no further. 💪
+CLICK TO TWEET
+Need to know your IP?
+Use our quick and simple IP location lookup tool.
+
+Lookup IP
+
+Are Firefox Extensions Safe?
+Firefox extensions are generally safe to install and use as long as you take the proper precautions.
+
+Independent third parties develop firefox extensions, but the most popular ones are subject to safety testing before Mozilla accepts each new version. So while popular extensions are generally safe, you should take some precautions.
+
+Every extension submitted to the official Firefox add-ons directory is scanned for issues, but not all are reviewed manually.
+
+Even Mozilla itself recommends being mindful of what permissions an extension asks for.
+
+Firefox extension permission guidelines
+Firefox extension permission guidelines.
+Mozilla also recommends that users ask themselves several questions before installing a plugin, including whether they trust the developer or brand behind it.
+
+But there are no added risks with Firefox extensions specifically. The concerns are the same as with Chrome extensions, for example.
+
+Major extensions developed by reliable brands and developers are typically safe, while something less known could pose some level of risk.
+
+If Mozilla puts a badge onto an add-on that warns, “this add-on is not actively monitored by Mozilla,” you should make 100% sure it’s from a reputable source.
+
+As long as you follow the precautions outlined above, you won’t face any additional risks because of Firefox extensions.
+
+How to Install and Remove Firefox Extensions
+To install a Firefox extension, you need to go to the official Firefox extension library. You can install extensions in other ways, but they may involve some risk unless the publisher is 100% trustworthy.
+
+From there, you can either search for a specific extension or browse categories until you find one that interests you.
+
+You can find these categories immediately on the homepage and explore them by clicking on the ones you’re interested in.
+
+The Firefox Extensions Library
+Firefox Extensions library.
+If you have a specific functionality or purpose in mind, you can also search for a new add-on using any keywords you want.
+
+For example, if you want to get better control over all your open tabs, you could search for “tab management.”
+
+Firefox extension search results
+Firefox extension search results.
+You can then filter the results by relevance, most users, top-rated, trending, and more. That makes it easy to quickly find the type of extension you want for your browser.
+
+Once you find an extension you like, click the result to open the extension page. You can see the add-on’s rating and more information about what it does on this page.
+
+Add extension to Firefox button
+Click on the Add to Firefox button.
+Clicking this button will trigger a prompt in Firefox asking you if you want to add the extension and explaining the permissions it’s requesting for.
+
+If you’re comfortable with the permissions, click “add.” That will officially add the new Firefox add-on to your browser.
+
+Firefox extension permissions
+Firefox extension permissions popup box.
+You should now see the successful installation message in the top-right corner of your browser.
+
+Firefox extension installation message
+Firefox extension installation message.
+You’ve successfully installed a Firefox extension. To use or see the new functionality in action, you may need to refresh the tab or close and reopen Firefox.
+
+Now that you understand how to install an extension, let’s cover how to manage and uninstall them. After all, you don’t want to end up with a browser overloaded with heavy extensions you don’t need.
+
+Managing and Uninstalling Firefox Extensions
+Managing your extensions as you install them, and uninstalling them as you go, are essential parts of using extensions.
+
+Specific Firefox add-ons can use quite a lot of RAM and CPU depending on their purpose. To keep the Firefox browser light and run optimally on your computer, you should only keep the extensions you actively use.
+
+To see all your Firefox extensions, you need to open your library of add-ons. You can either open up the menu and click the “Add-ons” link, use the Ctrl / Cmd + Shift + A keyboard shortcut, or type “about: add-ons” into the URL bar.
+
+Find the Firefox add-ons in the menu
+Firefox add-ons in the menu.
+That will open a page with the headline “Manage Your Extensions.” Here, you can see every add-on you’ve ever installed.
+
+To uninstall an extension, click the menu link on the extension you want to remove, and select the “Remove” option.
+
+Remove Firefox extension
+Remove Firefox extension.
+All Firefox extensions are enabled by default upon installation.
+
+If you only use an extension sometimes, and you want to speed up your browsing experience whenever you don’t, you can also disable an extension instead of uninstalling it.
+
+To disable an extension, click the blue toggle button and ensure it’s grey instead of blue.
+
+Where Are Firefox Extensions Stored?
+If you’re wondering where Firefox stores the extension files and related data on your computer, it depends on your operating system.
+
+In Windows, data from your add-ons is stored in the app data folder under your personal user:
+
+C Drive > Users > USERNAME > AppData > Roaming > Mozilla > Firefox > Profiles > VERSIONNUMBER.default > extensions
+
+Extensions folder in File Explorer in Windows
+Extensions folder in File Explorer in Windows.
+On a Mac computer, you’ll find the add-on files in a similar location inside your user’s library folder:
+
+Users/USERNAME/Library/Application Support/Firefox/Profiles/VERSIONNUMBER.default/extensions
+
+Important
+Even if you can’t find this folder, you can remove an extension and all related data by following the instructions in the section above.
+
+The average user likely won’t need to find the actual file location of the extensions.
+
+The only reason to do this is if you want to be highly cautious and scan new extension files with anti-malware or antivirus software (unless there’s a badge saying Mozilla doesn’t actively monitor it, that isn’t strictly necessary.)
+
+By now, you should understand precisely how to find, install, and manage existing Firefox extensions, so it’s time to share our recommendations with you.
+
+We’ve compiled a list of 12 extensions in various categories to help you get more out of your web browser.
+
+12 Best Firefox Extensions by Category
+In this section, we’ll cover 12 of the very best Firefox extensions in their respective categories, from password management to web design and even eye protection.
+
+1. Password Management: LastPass
+For managing your passwords, we recommend the LastPass Firefox extension.
+
+Lastpass is an award-winning password manager, and this extension keeps your passwords both safe and accessible — which may seem like a catch-22, but it isn’t.
+
+LastPass Password Manager Firefox extension
+LastPass Password Manager Firefox extension.
+It locks your passwords safely behind two-factor identification on iron-clad, secure, and encrypted servers.
+
+To access any password, you need to use your LastPass password and your email address or a mobile phone number.
+
+Features:
+
+It stores passwords securely in the cloud, so you only need to remember one.
+Allows access to passwords on all devices, including native apps for Android and iOS.
+Protects your passwords with military-grade encryption.
+Benefits:
+
+Never worry about forgetting a password and going through a lengthy resetting process again.
+2. Ad and Tracker Blocking: uBlock Origin
+uBlock Origin is different from any other adblocker in that it doesn’t just come with a specific built-in library of things to block.
+
+Instead, it’s a “wide-spectrum content blocker” that goes beyond just essential adblocker lists. It focuses on also limiting JavaScript and other elements that can slow down your experience and use extra computer resources.
+
+uBlock Origin Firefox Extension
+uBlock Origin Firefox Extension.
+By default, it comes with multiple blocking lists focused on both online ads and trackers to help you enjoy an ad and tracker-free experience online.
+
+Features:
+
+Blocks ads effectively with multiple up-to-date ad-blocking lists, including EasyList.
+Blocks trackers to protect your privacy online.
+Benefits:
+
+Enjoy an ad-and tracker-free browsing experience.
+Boost the performance of your browser and computer by blocking JavaScript globally — though this may interfere with the functionality of some websites.
+3. Grammar and Spell Checking: LanguageTool
+If you want some help with grammar and spelling when writing emails or web content, look no further than LanguageTool.
+
+Stop worrying about using words like ‘their’ and ‘there’ correctly. You’ll get the correct answer instantly, without having to ask Google for help.
+
+LanguageTool Firefox extension
+LanguageTool Firefox extension.
+It’s beneficial if you work in a job where you rely on emails as a necessary form of communication.
+
+You can also use it to make sure any blog or social media posts are grammatically correct.
+
+Features:
+
+Proofreads and edits as you type emails, social media posts, or create other content online in your browser.
+Allows you to correct errors in your writing with a single click.
+Benefits:
+
+Learn better grammar through writing without hiring a teacher, reading dry grammar books, or taking classes.
+No registration, account, or subscription is required.
+Experience the Power of Kinsta's Cloud Platform
+Kinsta is the perfect host for your website, online store, application, or enterprise project. We use the fastest Google C2 machines so you'll get world-class infrastructure and performance!
+
+View Pricing
+4. SEO: SEOQuake
+If you’re looking for a Firefox extension to help you boost your SEO results, SeoQuake is a great place to start.
+
+It’s an entirely free plugin that gives you access to many different SEO metrics for every page you visit.
+
+SeoQuake Firefox extension
+SeoQuake Firefox extension.
+If you have a WordPress site, you may also want to explore our list of recommended SEO plugins for WordPress. They can help you directly improve your on-site SEO, which you can use with this external data to boost your rankings.
+
+Features:
+
+It shows you backlinks, traffic, display ads, and other SEO information for pages that you visit.
+Evaluates the mobile usability of your site or your competitors’ websites.
+Exports results to a CSV format.
+Provides social sharing statistics for different pages.
+Benefits:
+
+Get a leg up on your competition by doing an in-depth audit of your key pages and blog posts.
+5. Readability: Tranquility Reader
+If you’re struggling to read online content because of autoplaying videos, ads, widgets, and other invasive media content, you can use Tranquility Reader to eliminate everything but the text.
+
+You can even set your own custom rules for removing and keeping to create a tailored experience for you.
+
+Tranquility Reader Firefox extension
+Tranquility Reader Firefox extension.
+If you’re struggling to read because of small text or colored backgrounds, you can set custom font sizes, colors, and backgrounds.
+
+You can also save content offline for reading later without an internet connection.
+
+Features:
+
+Removes ads, auto-playing videos, social sharing widgets, images, and more from online content.
+Edits the font size, color, and background to make it more readable for you.
+It gives you the option to save content offline for reading later.
+Benefits:
+
+Read your favorite blogs or online newspapers without any interruptions.
+Create a custom reading experience that isn’t as taxing on your eyes.
+6. Time Management: Tomato Clock
+If you’re working from home for the first time or want to experiment with new time management strategies, Tomato Clock is a Firefox extension that might help you.
+
+Tomato Clock Firefox extension
+Tomato Clock Firefox extension.
+It follows the “Pomodoro technique,” breaking down your work hours into sessions of 25 minutes followed by five-minute breaks.
+
+The technique is designed to help you stay hyper-focused on work for short periods to avoid burning out throughout the day.
+
+You can also control the timer lengths depending on your methods and strategies.
+
+Features:
+
+Automatically tracks time worked and divides your workday into work and rest periods — by default, 25 minutes work, five minutes off.
+Allows you to customize the timer to any length.
+Benefits:
+
+Improve your efficiency and productivity with better time management.
+7. Tab Management: Tree Style Tab
+Are you tired of losing control over dozens of different open tabs? Tree Style Tab can help you take control of the madness.
+
+Tree Style Tab Firefox extension
+Tree Style Tab Firefox extension.
+By arranging your tabs into expandable “trees,” you can keep track of different websites and pages as you go back and forth between tasks.
+
+The extension automatically creates this tree based on clever cues like search activity, but you can freely edit it yourself.
+
+Features:
+
+Opens every search result in a new child tab automatically.
+Allows you to restructure the tree using drag-and-drop functionality freely.
+Benefits:
+
+Never lose track of a crucial page while doing online research again.
+8. Screenshot: Full Web Page Screenshots (FireShot)
+If you want to capture full-page screenshots of an entire webpage, you can use the FireShot extension.
+
+FireShot Firefox extension
+FireShot Firefox extension.
+With this extension, you can capture, edit, annotate, and save webpage screenshots as an image or PDF file with links and text.
+
+It’s an easy way of storing online research on your computer.
+
+Features:
+
+Capture partials or full-page webpage screenshots.
+It gives you the option to annotate with text, shapes, arrows, and icons.
+Saves as images or PDF files with links and text.
+Benefits:
+
+Make efficient notes during online research of competitors, or improve your how-to guides with instructive screenshots.
+9. Secure Browsing: Avast Online Security
+If you want to avoid dangerous sites online, the Avast Online Security extension for Firefox can help.
+
+It uses a crowdsourced library of web reputation ratings to help you avoid any fishy sites, scams, or viruses.
+
+Avast Online Security Firefox extension
+Avast Online Security Firefox extension.
+It can help you avoid phishing sites, malware, and more. It’s a great extension if you care about online privacy and security — and who doesn’t these days?
+
+Features:
+
+It helps you avoid known phishing scams and malware sites using crowdsourced data.
+Allows you to check the rating of any website in seconds.
+It gives you the option to rate websites on their trustworthiness.
+Benefits:
+
+Use the past experiences of 400+ million Avast users to minimize your exposure to scams and malware.
+10. Eye Protection: Dark Reader
+Do pages with white backgrounds hurt your eyes over time as you stare at screens throughout your workday? Thankfully, you no longer have to endure this if a website doesn’t offer dark mode.
+
+With the Firefox extension Dark Reader, you can turn on dark mode for any page, even if the websites don’t offer it.
+
+Dark Reader Firefox extension
+Dark Reader Firefox extension.
+It’s a lot easier on the eyes, especially if you use the browser for work or research into the evening hours.
+
+Features:
+
+It gives you the option to turn on dark mode for every website on the internet.
+Allows you to adjust brightness, sepia filter, font settings, and more.
+Benefits:
+
+Reduce the strain on your eyes from prolonged web surfing with dark mode on every website.
+11. Web Development and Design: Stylus
+If you’re a web developer or web designer, the Stylus extension can make your browsing experience a lot more interesting.
+
+It lets you freely redesign your favorite websites using your personalized CSS stylesheets.
+
+tylus Firefox extension
+tylus Firefox extension.
+Feel like a blog doesn’t have enough white space? You can add it yourself. Don’t like the color schemes on a forum or subreddit? You can change it to suit your tastes better.
+
+Stylus gives you the creative freedom to make the web pages you interact with look like you want them to look.
+
+Features:
+
+Allows you to create custom themes.
+Includes advanced features like optional layouts, color and icon choices, and more.
+It gives you the option to install themes from other designers and developers.
+Backs up all your designs with the click of a button.
+Benefits:
+
+Make the web look like you want it to look, and get better at web design while doing it.
+12. YouTube Experience: Enhancer for YouTube
+Are you not satisfied with the regular YouTube user experience? Do you want extra features like automated quality selection and the ability to use the mouse wheel to control volume?
+
+Enhancer for YouTube offers all that and more.
+
+Enhancer for YouTube Firefox Extension
+Enhancer for YouTube Firefox Extension.
+It gives you total control over your own experience on YouTube, including whether you want to watch ads for specific channels. Whether you are creating a YouTube channel or doing some video marketing on YouTube, this extension is a solid one to have.
+
+You can create custom shortcuts for keyboard and mouse buttons and develop the optimal user experience for yourself.
+
+Features:
+
+Allows you to set up custom keyboard and mouse shortcuts for 30+ different functions.
+It gives you the option to choose your preferred video quality and other settings for all videos.
+Benefits:
+
+Experience the optimal YouTube user experience that you create yourself.
+Even though it’s lost some popularity, Firefox is still top-three in the world in terms of browser market share.
+
+And it’s clear why when you review the extension library — there are thousands of extensions available for every purpose. The 12 we covered above are just a starting point.
+
+Don’t be afraid to search the library on your own and find the Firefox extensions that you need to make your life easier.
+
+If there's any functionality you're missing in Firefox, the chances are that you can add what you need through an extension 😲 See the best options in this guide 👀
+CLICK TO TWEET
+Summary
+Extensions exist to help you get any extra functionality that Firefox doesn’t offer by default. You can mix and match thousands of different options until you create your optimal browsing experience.
+
+Hopefully, our list of recommendations helped you get some ideas for what areas you can change and improve. With the right extensions, you can stay safer, be more efficient, and get more things done online.
+
+Tell us about some of your favorite Firefox extensions in the comment section below.
+
+Get all your applications, databases, and WordPress sites online and under one roof. Our feature-packed, high-performance cloud platform includes:
+
+Easy setup and management in the MyKinsta dashboard
+24/7 expert support
+The best Google Cloud Platform hardware and network, powered by Kubernetes for maximum scalability
+An enterprise-level Cloudflare integration for speed and security
+Global audience reach with up to 35 data centers and 260 PoPs worldwide
+Get started with a free trial of our Application Hosting or Database Hosting. Explore our plans or talk to sales to find your best fit.
+
+
+Salman Ravoof
+Salman Ravoof is a Technical Editor at Kinsta. He's a self-taught web developer, writer, creator, and a huge admirer of Free and Open Source Software (FOSS). Besides tech, he's excited by science, philosophy, photography, arts, cats, and food. Learn more about him on his website, and connect with Salman on Twitter.
+
+Website
+LinkedIn
+Twitter
+Related Articles and Topics
+Most secure browser, featured image, illustration.
+BLOG
+6 Most Secure Browsers to Stay Safe and Protect Your Privacy
+Discover the most secure browsers to protect and keep your data 100% safe. From Firefox to Tor, our review covers six browsers in depth.
+READING TIME
+12 MIN READ
+PUBLISH DATE
+JUNE 25, 2021
+TOPIC
+FIREFOX
+TOPIC
+GOOGLE CHROME
+TOPIC
+WORDPRESS SECURITY
+Gmail add-ons and gmail extensions
+BLOG
+22 Gmail Add-Ons and Extensions to Enhance Your Email Productivity
+Do you want to get more things done in Gmail in less time? Try a combination of these Gmail add-ons and extensions to boost your email productivity!
+READING TIME
+17 MIN READ
+PUBLISH DATE
+JANUARY 24, 2020
+TOPIC
+EMAIL MARKETING TIPS
+Website Performance
+Local Development
+PHP
+Website Security
+Hosting
+Comments
+Leave A Comment
+Gravatar for this comment's author
+Andrew
+April 7, 2022 at 7:18 am
+REPLY
+Nice list of Firefox extensions. Today Firefox (Developer Edition at least) hits version 100. Here’s my top 5 add-ons for Firefox you didn’t mentioned but worth installing:
+1. BitWarden – https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
+2. G App Launcher (Google™ Shortcuts) – https://addons.mozilla.org/en-US/firefox/addon/google-shortcuts-all-google-se/
+3. Privacy Badger – https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+4. URL Shortener by Exilink – https://addons.mozilla.org/en-US/firefox/addon/url-shortener-by-exilink
+5. DownThemAll! – https://addons.mozilla.org/en-US/firefox/addon/downthemall/
+
+Leave a Reply
+Comment policy: We love comments and appreciate the time that readers spend to share ideas and give feedback. However, all comments are manually moderated and those deemed to be spam or solely promotional will be deleted.
+Comment
+
+Name
+
+Email
+
+By submitting this form: You agree to the processing of the submitted personal data in accordance with Kinsta's Privacy Policy, including the transfer of data to the United States.
+
+
+You also agree to receive information from Kinsta related to our services, events, and promotions. You may unsubscribe at any time by following the instructions in the communications received.
+
+Unlock 24/7 support at no extra cost
+No problem is too small or too big. Get around-the-clock expert support, included in all WordPress plans, 30-day money back guaranteed!
+
+Migrate for free
+Leader G2 awardEasiest admin G2 awardHighest User Adoption Mid-MarketHigh Performer Mid-MarketUsers love us G2 award
+Subscribe to our Newsletter
+Keep up with the latest web development trends, frameworks, and languages.
+
+Subscribe
+
+Kinsta Hosting
+Pricing
+Application Hosting
+Database Hosting
+Static Site Hosting
+WordPress Hosting
+Agency Hosting
+Single Site Hosting
+WooCommerce Hosting
+Enterprise Hosting
+Kinsta Support
+Free Migration
+Platform
+Add-Ons
+APM Tool
+DevKinsta
+Cloudflare Integration
+Edge Caching
+Kinsta API
+System Status
+Resources
+All Resources
+Blog
+Knowledge Base
+Documentation & Help
+Changelog
+Community Forum
+Ebooks
+Development Tools
+Affiliate Academy
+Agency Directory
+Company
+About Us
+Careers
+Clients & Case Studies
+Contact Us
+Kinsta Reviews
+Partners
+Press
+Security & Trust
+Why Us
+Research Program
+Affiliate Program
+Affiliate Dashboard
+Compare Kinsta
+Kinsta vs WP Engine
+Kinsta vs SiteGround
+Kinsta vs Flywheel
+Kinsta vs GoDaddy
+More Comparisons
+Kinsta on GitHub
+Kinsta on Twitter
+Kinsta on YouTube
+Kinsta on Facebook
+Switch language
+English
+© 2023 Kinsta Inc. All rights reserved.
+Kinsta® and WordPress® are registered trademarks.
+Legal information.

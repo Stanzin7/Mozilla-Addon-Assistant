@@ -1,0 +1,7 @@
+Flask==3.0.0
+openai==0.28.1
+langchain==0.0.315
+gunicorn==21.2.0
+unstructured[pdf]
+chromadb
+tiktoken

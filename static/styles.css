@@ -27,25 +27,26 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 45px;
+  margin-bottom: 25px;
 }
 .d-flex .browser-name {
   font-size: 40px;
 }
 .set-ms-3 {
-  margin-left: 18px;
+  margin-left: 15px;
 }
 .set-relative {
   position: relative;
 }
 .set-relative.set-input-width {
   width: 720px;
+  margin-left: 25px;
 }
 .set-relative.set-input-width input {
   width: 92%;
   display: block;
   flex-shrink: 0;
-  background-color: #fff;
+  background-color: #42414d;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
   border: 1px solid transparent;
   border-radius: 8px;
@@ -54,6 +55,7 @@ body {
   font-size: 15px;
   outline: none;
 }
+
 .set-input-width label {
   position: absolute;
   top: 12px;
@@ -100,6 +102,7 @@ body {
 }
 .text-light {
   color: #fff;
+  margin-left: 25px;
 }
 .text-light a {
   color: #6060cf;
@@ -199,7 +202,12 @@ hr {
   margin: 4px 0px;
   border: 1px solid #656565;
 }
+
 @media (max-width: 767px) {
+  .set-relative.set-input-width .google-logo {
+    float: left;
+    margin-right: 10px; /* Adds some space between the logo and the input field */
+  }
   .set-relative.set-input-width {
     width: 100%;
   }
@@ -251,8 +259,6 @@ hr {
     margin: 12px;
   }
 }
-
-/* Styles for the chatbox */
 .chatbot-toggler {
   position: fixed;
   bottom: 30px;
@@ -308,13 +314,13 @@ body.show-chatbot .chatbot {
   padding: 16px 0;
   position: relative;
   text-align: center;
-  color: #fff;
-  background: #4f4e5d;
+  color: #ffffff;
+  background: #151515;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 .chatbot header span {
   position: absolute;
-  right: 15px;
+  right: 50px;
   top: 50%;
   display: none;
   cursor: pointer;
@@ -322,7 +328,7 @@ body.show-chatbot .chatbot {
 }
 header h2 {
   font-size: 1.4rem;
-  margin-right: 30px;
+  margin-right: 35px;
 }
 .chatbot .chatbox {
   overflow-y: auto;
@@ -351,15 +357,27 @@ header h2 {
 .chatbox .incoming span {
   width: 32px;
   height: 32px;
-  color: #fff;
+  color: rgba(50, 50, 50, 1);
   cursor: default;
   text-align: center;
   line-height: 32px;
   align-self: flex-end;
-  background: #724ae8;
+  background: #f2f2f2;
   border-radius: 4px;
   margin: 0 10px 7px 0;
 }
+/* .chatbox .outgoing span {
+  width: 32px;
+  height: 32px;
+  color: #2a2a2e;
+  cursor: default;
+  text-align: center;
+  line-height: 32px;
+  align-self: flex-end;
+  background: #aeaeae;
+  border-radius: 4px;
+  margin: 0 10px 7px 0;
+} */
 .chatbox .chat p {
   white-space: pre-wrap;
   padding: 12px 16px;
@@ -367,7 +385,7 @@ header h2 {
   max-width: 75%;
   color: #fff;
   font-size: 0.95rem;
-  background: #724ae8;
+  background: RGBA(255, 87, 34, 1);
 }
 .chatbox .incoming p {
   border-radius: 10px 10px 10px 0;
@@ -380,6 +398,16 @@ header h2 {
   color: #000;
   background: #f2f2f2;
 }
+/* chat incoming*/
+Copy code .chat.incoming {
+  display: flex;
+  align-items: center; /* Align vertically center */
+}
+.message-container {
+  display: flex;
+  align-items: center; /* Align vertically center */
+}
+
 .chatbot .chat-input {
   display: flex;
   gap: 5px;
@@ -391,20 +419,23 @@ header h2 {
   border-top: 1px solid #ddd;
 }
 
-.chat-input textarea {
+.chat-input input {
+  flex-grow: 1;
+  color: black;
   height: 55px;
   width: 100%;
   border: none;
   outline: none;
   resize: none;
-  max-height: 180px;
+  /* max-height: 180px; */
   padding: 15px 15px 15px 0;
   font-size: 0.95rem;
+  overflow: hidden;
 }
 
 .chat-input span {
   align-self: flex-end;
-  color: #724ae8;
+  color: #030303;
   cursor: pointer;
   height: 55px;
   display: flex;
@@ -437,5 +468,52 @@ header h2 {
   }
   .chatbot header span {
     display: block;
+  }
+}
+/* ChatBot Typing Indicator */
+.chatbox .typing p {
+  color: #000;
+  background: #f2f2f2;
+  font-style: italic;
+  animation: blinkingText 1.2s infinite;
+}
+
+@keyframes blinkingText {
+  0% {
+    opacity: 0.2;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.2;
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Additional animation for color transition */
+@keyframes colors {
+  0% {
+    border-top-color: #3498db;
+  }
+  25% {
+    border-top-color: #e74c3c;
+  }
+  50% {
+    border-top-color: #f39c12;
+  }
+  75% {
+    border-top-color: #27ae60;
+  }
+  100% {
+    border-top-color: #3498db;
   }
 }
