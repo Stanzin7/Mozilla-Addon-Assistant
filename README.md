@@ -34,6 +34,9 @@ FireFox-Addon-Assistant is a unique tool aimed at improving the browsing experie
 - **User-Friendly Interface**: Simple and intuitive design for improved user experience.
 
 ## High-Level Design
+<img width="1435" alt="Hld-design" src="https://github.com/Stanzin7/Mozilla-Addon-Assistant/assets/109467334/22e01aba-edd2-4637-89d2-bcaa819b2f0f">
+
+
 
 Refer to the `HLD.md` file in the project directory for a comprehensive high-level design documentation.
 
